@@ -5,7 +5,7 @@ Fillit will allow you to discover and get familiar with a recurring programming 
 
 # Here is 4 tetriminos being assembled together into the smallest square possible (4x4)
 
-https://i.imgur.com/1Ul0eQs.png
+(https://i.imgur.com/1Ul0eQs.png)
 
 ### Here are the differents function types
 
