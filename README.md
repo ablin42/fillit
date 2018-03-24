@@ -5,8 +5,8 @@ Fillit will allow you to discover and get familiar with a recurring programming 
 
 # Here is 4 tetriminos being assembled together into the smallest square possible (4x4)
 $> cat sample.fillit | cat -e
-....$
-##..$
+- ....$
+> ##..$
 .#..$
 .#..$
 $
